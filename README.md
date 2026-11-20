@@ -29,7 +29,7 @@ This project demonstrates the process of performing EDA using Python in Jupyter 
 
 ## Author
 
-**Peter**
+**Peter@04**
 
 Aspiring Data Analyst 
 
